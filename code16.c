@@ -22,7 +22,7 @@ int main()
     	   	break;
     	   	
     	   	case 3:
-    	   		printf("ptoduct=%d",a*b);
+    	   		printf("product=%d",a*b);
     	   		break;
                  
 				case 4: 
